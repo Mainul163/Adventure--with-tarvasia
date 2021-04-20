@@ -1,0 +1,46 @@
+
+.position{
+    position: absolute;
+    bottom: 300px;
+    left: 500px;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+    
+}
+.position-text{
+    position: absolute;
+    color: aliceblue;
+    bottom:220px;
+    left: 520px;
+    text-align: justify;
+    font-family: 'Roboto Slab', serif;
+}
+.position-btn{
+    position: absolute;
+    bottom: 300px;
+    left: 450px;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+}
+@media only screen and (max-width:767px) {
+    .position{
+        position: absolute;
+        bottom: 300px;
+        left: 100px;
+        
+    }  
+    .position-text{
+        position: absolute;
+        color: aliceblue;
+        bottom:120px;
+        left: 100px;
+       
+    
+    }
+    .position-btn{
+        position: absolute;
+        bottom: 300px;
+        left: 50px;
+        
+    }
+}

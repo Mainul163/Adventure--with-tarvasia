@@ -1,0 +1,20 @@
+
+  .animation{
+    font-family: 'Orelega One', cursive;
+    transition: all 2s ease-in 2s;
+   
+  }
+
+  .animation:hover{
+    color: #E49A8F;
+      transform: translateY(90px);
+      ;
+  }
+
+
+  .img{
+      height: 350px;
+     
+  }
+
+ 

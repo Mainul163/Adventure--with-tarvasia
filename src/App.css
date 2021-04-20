@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.text-style{
+  font-family: 'PT Serif', serif;
+}
+.header-text{
+  font-family: 'Orelega One', cursive;
+}
+.margindiv{
+  margin-top: 140px;
+}
+.image{
+  border-radius: 50%;
+  height: 80px;
+}
+.padding{
+  padding-right: 120px;
+}
