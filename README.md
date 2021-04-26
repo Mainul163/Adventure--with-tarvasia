@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-My client site [Click the link](https://travel-f2f39.web.app/).
+My client site [Click the link](https://travel-f2f39.firebaseapp.com/).
 
 Server site [Click here](https://fierce-crag-88105.herokuapp.com/).
 
